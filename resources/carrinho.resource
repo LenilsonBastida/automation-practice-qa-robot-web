@@ -15,7 +15,7 @@ Então eu devo visualizar um produto no menu do item com preço
     Wait For Elements State    selector=//span[contains(.,'1 item')]    state=visible
     Take Screenshot
 
-Então a mensagem “Android Quick Start Guide” has been added to your basket." deve ser exibida
+E a mensagem “Android Quick Start Guide” has been added to your basket." deve ser exibida
     Wait For Elements State    selector=//div[@class='woocommerce-message'][contains(.,'View Basket “Android Quick Start Guide” has been added to your basket.')]
                         ...    state=visible
     Take Screenshot
