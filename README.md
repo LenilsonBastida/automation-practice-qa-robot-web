@@ -79,3 +79,7 @@ robot -d ./reports tests
 - Senha válida (gerada pela Faker Library)
 - Endereço de e-mail não registrado "usuario_inexistente@inexistente"
 - Senha inválida "senha_incorreta"
+
+### Produto
+
+- Cupom de desconto "krishnasakinala" 

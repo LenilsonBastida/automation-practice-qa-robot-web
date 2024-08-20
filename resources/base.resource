@@ -13,6 +13,7 @@ ${SENHA_FRACA_>=7_SEM_NUM_MIN}      ABCD!@$
 ${SENHA_MEDIA}                      Senha@123
 ${USUARIO_NAO_REGISTRADO}           usuario_inexistente@inexistente  
 ${SENHA_INCORRETA}                  senha_incorreta
+${CUPOM_DESCONTO}                   krishnasakinala
 
 *** Keywords ***
 Abrir navegador
